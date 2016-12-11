@@ -1,0 +1,45 @@
+#Cover of the Mushroom Kingdom Theme from Super Mario RPG, in minor key
+#Transcribed by Ely Golden, August 8 2016
+
+(tempo! 100)
+
+bPart1 = o5 r1 (quant 30) c8 f f c d-~ c16~ <b-~> c8 < a- b-~ a-16~ g~ a-8 f e g > c4~
+bPart2 = o2 (quant 30) [f8 >c<]*10 [c g]*2
+
+part1 = o5 (quant 30) c8 f f c d-~ c16~ <b-~> c8 < a- b-~ a-16~ g~ a-8 f e g32~ a-~ g~ a-~ f8~ c16~ d
+part2 = o2 (quant 30) [f8 >c<]*6 [c g]*2
+
+part1 = part1 [e8~ f16~ g~ e8 c]*3 >c8~< b-16~ a-~ g~ a-~ g~ f~ [e8~ f16~ g~ e8 c]*3 >c8.~< b-16~ a-~ g~ <a-~>/a-~ <b-~>/b-~ >
+part2 = part2 (quant 60) [[g2/>c/e<]*2 [g4/>c/e<]*2 g2/>c/e<]*2 (quant 30)
+
+part1 = part1 <c8>/c <f>/f <f>/f <c>/c <d-~>/d-~ <c16~>/c~ < <b-~>/b-~ > <c8>/c < <a->/a- <b-~>/b-~ <a->/a-16~ <g~>/g~ <a-8>/a- <f>/f <e>/e <g>/g > <c4~>/c~
+part2 = part2 [f8 a-/>c<]*6 [c g/>c<]*2
+
+part1 = part1 <c8>/c <f>/f <f>/f <c>/c <d-~>/d-~ <c16~>/c~ < <b-~>/b-~ > <c8>/c < <a->/a- <b-~>/b-~ <a->/a-16~ <g~>/g~ <a-8>/a- <f>/f <e>/e <g>/g <f~>/f~ (quant 90) e16 f
+part2 = part2 [f8 a-/>c<]*6 [c g/>c<]*2
+
+part1 = part1 g8 > c c < g a- g16 f g8 e >> c < b-16 a b-8 g a b- > c d- < c f f c d- c16 < b- > c8 < a > b a16 g a8 f d2/<g8 f16 e f8 d r4. d16 e f f+ g a g24/b- a/>c< b/>d c/e d/f e-/g-
+part2 = part2 c1~/g~/>c~< e-~/g~/b-~/>e-~< f~/a~/>c~/f~< g~/b~/>d~/g~ (vol 90) d8~ c16~ < b~ > c8~ < a~ r2 (vol 60)
+
+part1 = part1 <g8>/e/g <f16>/d/f <e>/c/e <f8>/d/f <d/g/>d <e->/c/e- <c/g>/c < <g>/e-/g > <c/g>/c <d/b>/d <e-16>/c/e- <f>/d/f <e-8>/c/e- <d/b>/d <e-8>/c/e- <c/g>/c < <g4>/e-/g >
+part2 = part2 [c8 g/>e-/g<]*4 [g >c/f<]*2 [c8 g/>e-/g<]*2
+
+part1 = part1 <g8>/e/g <f16>/d/f <e>/c/e <f8>/d/f <d/g/>d <e->/c/e- <c/g>/c < <g>/e-/g > <c/g>/c <d/b>/d <f>/d/f <e-32/b->/e- <f>/d/f <e-16/b->/e- <d8/f>/d <c2/e->/c
+part2 = part2 [c8 g/>e-/g<]*4 [g >c/f<]*2 [c8 g/>e-/g<]*2
+
+part1 = part1 c8/>c< <b-16>/b- <a>/a <b-8>/b- <g>/g <a->/a- <f>/f <c>/c <f>/f <g>/g <a-16>/a- <b->/b- <a-8>/a- <g>/g <a-8>/a- <f>/f <c4>/c
+part2 = part2 [f8 a-/>c<]*4 [c g/>c<]*2 [f a-/>c<]*2
+
+part1 = part1 c8/>c< <b-16>/b- <a>/a <b-8>/b- <g>/g <a->/a- <f>/f <c>/c <f>/f <g>/g <b->/b- <a->/a- <g>/g <f2>/f
+part2 = part2 [f8 a-/>c<]*4 [c g/>c<]*2 [f a-/>c<]*2
+
+part1 = part1 (quant 30) c8 f f c d-~ c16~ <b-~> c8 < a- b-~ a-16~ g~ a-8 f e g8/e16~ f~ > c4~/<f+16~ g~ a-~ b-~
+part2 = part2 [f8 >c<]*6 [c g]*2
+
+ePart1 = o5 (quant 30) c8 f f c d-~ c16~ <b-~> c8 < a-/>a-< b-~/>b-~< a-16~/>a-~< g~/>g~< a-8/>a-< f/>f< (tempo 72.5) e/>e< g/>g< f4~1~/>f~<
+ePart2 = o2 (quant 30) [f8 >c<]*6 (tempo 72.5) c g f4~1~/>c~/f~<
+
+piano:
+
+V1: (vol 90) bPart1 [part1]*2 ePart1
+V2: (vol 60) bPart2 [part2]*2 ePart2
