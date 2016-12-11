@@ -1,0 +1,83 @@
+
+piano:
+(tempo! 140)
+#1-----------------------------------
+o5 e8 d+ 
+o5 e8 d+ e o4 b o5 d  c 
+o4 a4/o2a8 o3 e a  o4 c e8  a 
+o4 b4/o2e8 o3 e g+ o4 e g+8 b 
+o5 c4/o2a8 o3 e a  o4 e o5  e8 d+ 
+
+#6---------------------------------------
+
+o5 e8 d+ e o4 b o5 d c
+
+o4 a4/o2a8 o3 e a  o4 c e8 a 
+
+o4 b4/o2e8 o3 e g+ o4 e o5 c8 o4 b 
+
+o5 a4/o2a8 o3 e a o5 e8 d+ 
+
+o5 e8 d+ e o4 b o5 d c
+
+#11-------------------------
+
+o4 a4/o2a8 o3 e a  o4 c e8 a 
+
+o4 b4/o2e8 o3 e g+ o4 e g+8 b 
+
+o5 c4/o2a8 o3 e a o4 e o5 e8 d+ 
+
+o5 e8 d+ e o4 b o5 d c
+
+o4 a4/o2a8 o3 e a o4 c e8 a 
+
+
+#16-------------------------
+
+o5 b4/o2e8 o3 e g+ o4 e o5 c8 o4 b 
+
+o5 a4/o2a8 o3 e a o4 b o5 c d 
+
+o5 e4/o2c8 o3 g c o4 g o5 f8 e
+
+o5 d4/o2g8 o3 g b o4 f o5 e8 d
+
+o5 c4/o2a8 o3 e a o4 e o5 d8 c
+
+
+#21-------------------------
+
+o4 b4/o2e8 o3 e o4 e8 e o5 e o4 e
+
+o5 e8 e o6 e o5 d+ e d+ 
+
+o5 e d+ e o4 b o5 d c
+
+o4 a4/o2a8 o3 e a o4 c e8 a 
+
+o4 b4/o2e8 o3 e g+ o4 e g+8 b 
+
+#26---------------------------
+
+
+o5 c4/o2a8 o3 e a o4 e o5 e8 d+ 
+
+o5 e8 d+ e o4 b o5 d c
+
+o4 a4/o2a8 o3 e a o4 c e8 a 
+
+o4 b4/o2e8 o3 e g+ o4 e g+8 b 
+
+o4 a4/o2a8 o3 e a4
+
+
+
+
+
+
+
+
+
+
+
