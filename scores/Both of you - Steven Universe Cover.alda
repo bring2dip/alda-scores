@@ -1,0 +1,44 @@
+#Steven Universe - Both of You - Written by Rebecca Sugar
+#Transcribed by Ely Golden, August 1 2016
+
+(tempo! 120)
+
+piano "steven": (vol 85) o5
+piano "background": (vol 65) o3
+celesta: (vol 75) o6
+clarinet: (vol 75) o5
+
+steven: [r1]*3 [r8]*5 (quant 30) f+8 f+ f+ f+4 e8~ d~ c+~ < b4~ > [r8]*6 (quant 90) f+8 f+ f+ f+4 e8 d c+ < b4 g8 g g > d d r d d d
+steven: (quant 30) c+8 < b16 > c+8 d c+ < b4. > [r16]*11 (quant 90) d8 d d (quant 30) c+ < b > c+16 d16. r32 c+16~8 < b8 b b (quant 90) g8. > d d8 r2
+background: [f+2/b/>d< e4./a/>c+< d8~1/g/b]*4 [f+2/b/>d< e4/a/>c+< e8/a/>c+< d8~1/g/b]*2
+celesta: [r1]*12
+clarinet: [r1]*12
+
+steven: r4 d8 c+4 c+8 d d < b1 > r4 d8 c+4 c+8 d f+8~2 e4 < a8 a8~4 > d8 d c+ c+4 d8 < b4. f+8 b a f+4~2.~8 a8 > d4 f+ c+ e d < b- > {e7 f+1} e8 d8~1~8 << d8 a > c+ e2 >
+background: e4./a/>c+< e8~2/a/>c+< d4./g/b d8~2/g/b e4./a/>c+< e8~2/a/>c+< f+2/a/>d< e/a/>c+< e4./a/>c+< e8~2/a/>c+< d4./g/b d8~2/g/b d1/f+/a
+background: f+2/b/>d< e/a/>c+< f+/b-/>d< e-/g/b-/>d< (vol 75) d1~1/f+/a/>c+< (vol 70)
+celesta: a4 r2.~4 c+8 d4 c+8 r4 a r2. [r1]*8
+clarinet: [r1]*3 f+2 g a1 r (vol 62.5) >f+< (vol 75) [r1]*4
+
+steven: [r1]*8
+background: [<b2>/f+/b/>d< <a4.>/e/a/>c+< <e8~1>/e/g/b]*4
+celesta: [d2 c+4. <b8~1>]*2 r1~2 < d4 c+ <b>> r2.~1
+clarinet: [r1]*3 r2~4~8~16 b16 >f+1~1< r4 (vol 62.5) b8 > f+2~8~4 (vol 56.25) b2 < r4
+
+steven: r4 c+8 c+4 c+8 d c+ < b2. > r2 d8 c+4 c+8 d4 f+2 e r4 c+8 c+4 d d8~4 < f+8 f+ b a4 f+2 r4 < f+8 a > c+ > e4 d c+ < b >
+background: e4./a/>c+< e8~2/a/>c+< d4./g/b d8~2/g/b e4./a/>c+< e8~2/a/>c+< f+2/a/>d< e/a/>c+< e4./a/>c+< e8~2/a/>c+< d4./g/b d8~2/g/b d1~1/f+/a
+celesta: (vol 80) a4 r2.~4 (vol 70) c+8 d4 c+8 r4 (vol 80) a r2. [r1]*5
+clarinet: [r1]*8
+
+steven: r4 d8 c+4 c+8 d d < b1 > r4 d8 c+4 c+8 d f+8~2 e4 < a8 a8~4 > d8 d c+ c+4 d8 < b4. f+8 b a f+4~2.~8 a8 > d4 f+ c+ e d < b- > f+ e8 d8~1 r2~4. < a8
+background: e4./a/>c+< e8~2/a/>c+< d4./g/b d8~2/g/b e4./a/>c+< e8~2/a/>c+< f+2/a/>d< e/a/>c+< e4./a/>c+< e8~2/a/>c+< d4./g/b d8~2/g/b d1/f+/a
+background: f+2/b/>d< e/a/>c+< f+/b-/>d< e-/g/b-/>d< (vol 60) d1~2./f+/a/>c+< r4
+celesta: [r1]*11
+clarinet: [r1]*11
+
+(tempo! 110)
+
+steven:  > d4 f+ c+ e d < b- > f2~2 e4 d4~1~1
+background: f+2/b/>d< e/a/>c+< f+/b-/>d< g2~2/a/>c+/f< r2~8 f+2..~1/a/>c+/e<
+celesta: [r1]*3 r8 (vol 75) e2..~1
+clarinet: [r1]*5
