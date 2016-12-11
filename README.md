@@ -4,7 +4,10 @@ Collection of scores written in [alda-lang](https://github.com/alda-lang/alda)
 #How to Play
 alda play --file scores/fur-elise.alda
 
+#Website
+(https://bring2dip.github.io/alda-scores/)
+
 #List
-[Fur Elise](./scores/fur-elise.alda)
+[Für Elise](./scores/fur-elise.alda)
 
 
