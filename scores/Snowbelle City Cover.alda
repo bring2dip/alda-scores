@@ -1,0 +1,32 @@
+#Cover of Snowbelle City from Pokemon X and Y
+#Transcribed by Ely Golden, July 11 2016
+
+(tempo! 187.965)
+
+pianoPart = (vol 60)
+melodicPianoPart = (vol 90)
+violinPart = (vol 90)
+trumpetPart = (vol 90)
+flutePart = (vol 80)
+percussionPart = (vol 30)
+
+pianoPart = pianoPart [o5 e4/g/b g/b/>d< g/b/>e< b/>d/f+< g/b/>d< g/b/>e< b/>d/f+< e/g/b g/b/>d< b/>d/f+< g/b/>e< g/b/>d<]*2
+melodicPianoPart = melodicPianoPart [r2.]*4 o4 <e>/e <b>/b <a>/a d/>d<
+
+pianoPart = pianoPart o3 g2./b/>e< f+/b/>e-< g/b/d e/a/>c+< e/a/>c< f+/a/>d< d/g/b e-/f+/b e/g/b e/g/b e/a/>c< e/g/b e/a/>c< a/>c/e< f+/b/>e-< f+/b/>e-<
+violinPart = violinPart [r2.]*8 o5 b b b4 a g a2. g4 f+ e d f+ d < b1. > b2. b4 > e f+ g2 f+4 e2. c2 < b4 a g a b1.
+
+percussionPart = percussionPart [r2.]*24 o2 [d4]*45 [r2.]*17
+violinPart = violinPart (vol 60) (quant 50) o3 [a4/>c/e<]*6 [a4/>d/f+<]*6 [b4/>d/f+<]*6 [g4/b/>e<]*6 [a4/>c/e<]*6 [b4/>e-/f+<]*6 (quant 90) b2./>e/g d/f+/a e/a-/b [r2.]*17 (vol 90)
+trumpetPart = trumpetPart [r2.]*24 o4 c2.~2 g4 f+2.~2 e4 f+2. d2 < b4 > d1. e2. c4 d e e-2. e-4 e f+ a2. g2 a4 b2. [r2.]*17
+flutePart = flutePart [r2.]*30 o5 r4 g8/b a/>c< b4/>d< b/>d< a/>c< g/b [r2.]*24
+
+melodicPianoPart = melodicPianoPart [r2.]*31 o5 a-4 a b > c2. c4 < b a g2 b4 d2. g g4 f+ e d2 f+4 < b2. > c4 < b > c e c > c < b2. e-4 b a g f+ g a g a b1.
+pianoPart = pianoPart [r2.]*15 o4 e4 f+ a- a > c e g f+ e d2. < b c4 e g > c < b a g2. d a4 e a > c < a > c e-2./f+ < f+/b e/g f+/a e-1./f+/b
+
+piano "backgroundPiano": [pianoPart]*2
+piano "melodicPiano": [melodicPianoPart]*2
+violin: [violinPart]*2
+trumpet: [trumpetPart]*2
+flute: [flutePart]*2
+percussion: [percussionPart]*2
