@@ -1,0 +1,8 @@
+title: Alda Scores
+description: Collection of scores written in alda-lang
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
