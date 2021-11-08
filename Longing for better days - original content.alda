@@ -1,0 +1,40 @@
+(volume! 100)
+
+st = (quant 30)
+lg = (quant 90)
+
+piano:
+
+V1: o4
+V2: (volume 70) o3
+
+V1: [r2.]*3 r4. <a8> d e
+V2: [d8 e f e f e]*3 d8 r2~8
+
+V1: f2.~4. <a8> e f g2.~4. c8 e f g2.~4. c8 f g a2.~4. d8 f+ g a2.~4. d8 g a b-2.~4. e-8 g a b-2.~4. a8 g f e2.~4. <a8> d e
+V2: [d8 e f e f a]*2 [e8 f g f g a]*2 [c8 d e d e g]*2 [c8 f a f a f]*2
+V2: [d8 f+ a f+ a f+]*2 [d8 g b- g b- g]*2 [e-8 g b- g b- g]*2 [<a8> c+ e c+ e c+]*2
+
+V1: f8 e f2.~8 <a8> e f g f g2.~8 c8 e f g f g2.~8 c8 f g a g a2.~8 d8 f+ e/g f+/a e/g f+2.~8/a d8 g f+/a g/b- f+/a g2.~8/b- e-8 g f/a g/b- f/a g2.~8/b- f8/a e/g d/f c+/e <b>/d <a2.~8>/c+ <a8> d e
+V2: [d8 e f e f a]*2 [e8 f g f g a]*2 [c8 d e d e g]*2 [c8 f a f a f]*2
+V2: [d8 f+ a f+ a f+]*2 [d8 g b- g b- g]*2 [e-8 g b- g b- g]*2 [<a8> c+ e c+ e c+]*2
+
+[
+
+V1: f4. d8 e f g4. c8 e f g4. c8 f g a4. d8 f+ g a4. d8 g a b-4. g8 a b- >c4.< b-8 a g a4. a8 b- >c<
+V2: d8 e f e f d | e f g f g e | c d e d e c | c f a f a f |
+V2: d8 f+ a f+ a f+ | d g b- g b- g | e g >c< g >c< g | f a >c< a >c< a |
+
+V1: > d4. c8 < b- a b-4. b8 > c d e4. d8 c < b- a4. f8 g a b-4. a8 g f e4. c8 e f g4. c8 f g a4. f+8/a g/b- a/>c<
+V2: <b-8> d f d f d | g b- >d< b- >d< b- | e g >c< g >c< g | f a >c< a >c< a |
+V2: <b-8> d f d f d | c e g e g e | c e g e g e | c f a f+ g a |
+
+V1: b-4./>d< a8/>c< g/b- f/a g4./b- g8/b a/>c< b-/d >c4./e< b-8/>d< a/>c< g/b- f4./a d8/f e/g f/a g4./b- f8/a e/g d/f c+4./e <a8> c+ d e4. <a8> e f d2.~2.
+V2: <b-8> d f d f d | g b- >d< b- >d< b- | e g >c< g >c< g | f a >c< a >c< a |
+V2: <b-8> d f d f d | <a> c+ e <a> e c+ | <a> c+ e c+ e c+ | [d8 e f e f e]*2
+
+]*2
+
+V1: f4. d8 e f e4 st c+ <a> lg g4. e8 f g f4 e d f4. d8 e f e4 st c+ <a> lg g4. f8 e c+ d2.
+V2: d8 e f e f e | c+ d e d e d | e f g f g e | f e f e f d |
+V2: d8 e f e f e | c+ d e d e d | e f g f g e | f2./a |
