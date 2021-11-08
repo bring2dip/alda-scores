@@ -1,6 +1,4 @@
-#Cover of the Mushroom Kingdom Theme from Super Mario RPG, in minor key
-#Transcribed by Ely Golden, August 8 2016
-
+(volume! 100)
 (tempo! 100)
 
 bPart1 = o5 r1 (quant 30) c8 f f c d-~ c16~ <b-~> c8 < a- b-~ a-16~ g~ a-8 f e g > c4~
