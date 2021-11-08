@@ -1,6 +1,4 @@
-#Steven Universe - We are the Crystal Gems - Written by Rebecca Sugar
-#Transcribed by Ely Golden, March 7 2016
-
+(volume! 100)
 (tempo! 160)
 
 midi-synth-voice:
@@ -122,4 +120,4 @@ V3: d4. d4. d4 d4. d4. d4 (quant 90) f+2 e c+2. r1~1.. b-2 > f+1 r4 (vol 50) f+1
 V4: o4 d4 a8 a4 a4. r1 b-4 b- b- b-8 r8 (quant 50) b4. b4. b4 b4. b4. b4 b-4. b-4. r4 (quant 90) b-4 b- b- b-8 r8
 #are the crystal -
 V4: (quant 50) a4. a4. a4 a4. a4. a4 (quant 90) f+2 c+ < b-2. r1.. >> d8 e4 d8~2 d2 d4~1 (vol 50) d1~1
-#                                             - of this world ------- Amethyst - 
+#                                             - of this world ------- Amethyst -
