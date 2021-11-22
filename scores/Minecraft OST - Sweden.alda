@@ -1,0 +1,74 @@
+
+# SLICE 0 (Tick 0 ==> ~0)
+
+(tempo! 90)
+
+
+guitar "guitar-ch0":
+	(quant 95) (vol 39) <<e2 f+ g b a g d1 e2 f+ g b a g d1 e2 f+ g b a g d1 e2 f+4 >>b <<g2 b4 >>d8 e <<a2 g4 >>f+8 a <<d1 e4 >>>d <<<f+ >>a <<g2 b4 >>d8 e <<a2 g4 >>a8 f+ <<d1 e2 f+4 >>b <<g2 b4 >>>f+8 e <<<a2 g4 >>>d8 c+ <<<d1 e2 f+4 >>a <<g2 b4 >>d8 e <<a2 g4 >>f+8 a <<d1 e2 f+4 >>b <<g2 b4 >>d8 e <<a2 g4 >>f+8 a <<d1 e2 f+4 >>b <<g2 b4 >>d8 e <<a2 g4 >>f+8 a <<d1 f+2. >>b8 a <<e2 >>e4 d <<a2. >>d8 e <<g1 e2. >>b8 a <<e2 >>>e4 d <<<a2 >>>d4 <d8 e <<g1~16
+
+# CONFIGURATION:
+#
+# dc_all_syllables_orphaned      false
+# dc_chord_note_off_tolerance    20
+# dc_chord_note_on_tolerance     3
+# dc_chord_velocity_tolerance    5
+# dc_ctrl_change_mode            1
+# dc_duration_ratio_tolerance    0.15
+# dc_extra_globals_str           
+# dc_karaoke_one_channel         false
+# dc_length_strategy             1
+# dc_length_tick_tolerance       5
+# dc_max_duration_to_keep        1.1
+# dc_max_target_ticks_on         3840
+# dc_min_duration_to_keep        0.2
+# dc_min_target_ticks_on         60
+# dc_must_add_config             true
+# dc_must_add_quality_score      true
+# dc_must_add_statistics         true
+# dc_must_add_strategy_stat      true
+# dc_must_add_tick_comments      true
+# dc_orphaned_syllables          1
+# dc_use_dotted_notes            true
+# dc_use_dotted_rests            true
+# dc_use_karaoke                 true
+# dc_use_pre_defined_chords      true
+# dc_use_tripletted_notes        true
+# dc_use_tripletted_rests        true
+
+# QUALITY STATISTICS:
+#
+# Channel 0:
+#     Rests: 0
+#         Rests/Notes:             0/115 (0.00%)   Sub Score:     100.00
+#     Notes: 115
+#         Summands:                  116 (100.87%) Sub Score:      99.13
+#         Triplets:                    0 (0.00%)   Sub Score:     100.00
+#         Velocity changes:            1 (0.87%)   Sub Score:      99.13
+#         Duration changes:            1 (0.87%)   Sub Score:      99.13
+#     Quality Score: 99.48
+#
+# TOTAL:
+#     Rests: 0
+#         Rests/Notes:             0/115 (0.00%)   Sub Score:     100.00
+#     Notes: 115
+#         Summands:                  116 (100.87%) Sub Score:      99.13
+#         Triplets:                    0 (0.00%)   Sub Score:     100.00
+#         Velocity changes:            1 (0.87%)   Sub Score:      99.13
+#         Duration changes:            1 (0.87%)   Sub Score:      99.13
+#     Quality Score: 99.48
+#
+
+# STRATEGY STATISTICS:
+#
+# Channel 0:
+#     Sum:         115
+#     Next ON:     114 (99.13%)
+#     Duration:      1 (0.87%)
+#     Press:         0 (0.00%)
+# TOTAL:
+#     Sum:         115
+#     Next ON:     114 (99.13%)
+#     Duration:      1 (0.87%)
+#     Press:         0 (0.00%)
+
